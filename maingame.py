@@ -5,7 +5,7 @@ import math
 
 pygame.init()
 
-# Screen and Grid Configuration
+# Screen and Grid Configuration lol
 SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 600
 BOARD_COLS = 10
